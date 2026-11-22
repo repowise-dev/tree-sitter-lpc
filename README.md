@@ -1,5 +1,10 @@
 # tree-sitter-lpc
 
+> This fork publishes the grammar to PyPI as
+> [`tree-sitter-lpc`](https://pypi.org/project/tree-sitter-lpc/) (prebuilt
+> wheels for Linux, macOS and Windows). The grammar itself comes from
+> [cpu/tree-sitter-lpc](https://github.com/cpu/tree-sitter-lpc).
+
 A [tree-sitter](https://tree-sitter.github.io) grammar for the
 **[LDMud](https://ldmud.eu) dialect of LPC**, built rule-by-rule against the
 canonical bison grammar in
